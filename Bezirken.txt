@@ -1,0 +1,15 @@
+die 12 Berliner Bezirke anhand ihrer monatlichen Fahrraddiebstahlmuster in 3 Cluster eingeteilt.
+Was bedeuten Cluster 0, 1 und 2?
+- Cluster 0: Bezirke, die ein ähnliches monatliches Diebstahlmuster haben.
+- Cluster 1: Andere Bezirke, deren monatliche Diebstahlmuster sich ähneln.
+- Cluster 2: Eine dritte Gruppe von Bezirken mit ähnlichem Diebstahlverlauf.
+Die Zahlen 0, 1 und 2 sind nur Gruppennamen.
+Was zeigt dein Liniendiagramm?
+- X-Achse: Monate (Januar bis Dezember).
+- Y-Achse: Prozentualer Anteil der Fahrraddiebstähle.
+- Jede Linie: Zeigt das durchschnittliche monatliche Diebstahlmuster eines Clusters.
+Beispiel:
+Wenn Cluster 1 im Juli einen hohen Wert hat, bedeutet das:
+In den Bezirken dieses Clusters entfällt durchschnittlich ein größerer Anteil der erfassten Diebstähle auf den Juli.
+
+Vlt sieht man in zu welchen Monaten die Fahrräder am sc
